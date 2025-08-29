@@ -1,6 +1,6 @@
-🚀 TodoEase
+🚀 Taskify
 
-TodoEase is a simple yet attractive React + Bootstrap task management app designed to help users stay organized and productive. With its clean UI and interactive features, it provides a seamless way to manage daily tasks effectively.
+Taskify is a simple yet attractive React + Bootstrap task management app designed to help users stay organized and productive. With its clean UI and interactive features, it provides a seamless way to manage daily tasks effectively.
 
 🧩 Problem Statement
 
@@ -8,11 +8,11 @@ Many people rely on notes or plain lists to track their daily tasks, which often
 
 💡 Inspiration
 
-The idea for TodoEase came from the need to build a practical React project while keeping the design simple and professional. Inspired by modern productivity apps, the goal was to create something minimal, responsive, and beginner-friendly for learning React + Bootstrap.
+The idea for Taskify came from the need to build a practical React project while keeping the design simple and professional. Inspired by modern productivity apps, the goal was to create something minimal, responsive, and beginner-friendly for learning React + Bootstrap.
 
 ✅ Solution
 
-TodoEase provides a feature-rich task manager where users can:
+Taskify provides a feature-rich task manager where users can:
 
 Add, edit, complete, and delete tasks.
 
@@ -45,8 +45,8 @@ Responsive Design principles
 
 Clone the repo
 
-git clone https://github.com/YourUsername/TodoEase.git
-cd TodoEase
+git clone https://github.com/YourUsername/Taskify.git
+cd Taskify
 
 
 Install dependencies
