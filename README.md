@@ -1,70 +1,65 @@
-# Getting Started with Create React App
+🚀 TodoEase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TodoEase is a simple yet attractive React + Bootstrap task management app designed to help users stay organized and productive. With its clean UI and interactive features, it provides a seamless way to manage daily tasks effectively.
 
-## Available Scripts
+🧩 Problem Statement
 
-In the project directory, you can run:
+Many people rely on notes or plain lists to track their daily tasks, which often lack structure and interactivity. There’s a need for a lightweight, responsive, and easy-to-use task manager that makes task handling both efficient and visually engaging.
 
-### `npm start`
+💡 Inspiration
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The idea for TodoEase came from the need to build a practical React project while keeping the design simple and professional. Inspired by modern productivity apps, the goal was to create something minimal, responsive, and beginner-friendly for learning React + Bootstrap.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+✅ Solution
 
-### `npm test`
+TodoEase provides a feature-rich task manager where users can:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Add, edit, complete, and delete tasks.
 
-### `npm run build`
+View task status with badges (Pending / Done).
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Use a responsive design that works across devices.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Enjoy a clean, Bootstrap-powered interface.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+✨ Features
 
-### `npm run eject`
+🎨 Clean and modern Bootstrap UI
+📝 Add, edit, complete, undo, and delete tasks
+🏷️ Status indicators with colorful badges
+📱 Mobile & desktop responsive
+💬 Edit tasks with an interactive Bootstrap Modal
+⚡ Lightweight, fast, and beginner-friendly
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🛠️ Tech Stack
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+React.js
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Bootstrap / React-Bootstrap
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+JavaScript (ES6)
 
-## Learn More
+Responsive Design principles
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+⚙️ Project Setup Guide
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Clone the repo
 
-### Code Splitting
+git clone https://github.com/YourUsername/TodoEase.git
+cd TodoEase
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+Install dependencies
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+npm install
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Start the development server
 
-### Advanced Configuration
+npm start
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+Open http://localhost:3000
+ in your browser 🚀
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Built with ❤️ by Riya Sharma
